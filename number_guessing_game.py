@@ -1,27 +1,37 @@
 import random
 
-computer_number = random.randint(1,100)
+end = 100
+
+computer_number = random.randint(1, end)
 
 tries = 3
-level = 0
+level = 1
 
 while True:
-    player_input = input("Guess a number between 1 and 100:")
+    tries = 3
+    player_input = input(f"Guess a number between 1 and {end}: ")
     tries -= 1
     if not player_input.isdigit():
-        print("Invalid input.Please,try again.")
+        print("Invalid input. Please,try again.")
         continue
     player_number = int(player_input)
     if player_number == computer_number:
-        level += 1
-        print(f"You guessed it!\nWould you like to advance to level {level}?")
-        play_again = input("Yes/No")
-        if play_again == "Yes":
+        print(f"You guessed it!\nWould you like to advance to level {level + 1}?")
+        advance = input("Yes/No\n")
+        if advance == "Yes":
+            end += 100
             continue
-        elif play_again == "No":
-            break
+        elif advance == "No":
+            print(f"Would you like to play level {level} again?")
+            play_again = input("Yes/No")
+            if play_again == "Yes":
+                continue
+            elif play_again == "No":
+                break
+            else:
+                print("Invalid input. Please,try again.")
         else:
-            print("Invalid input,try again.")
+            print("Invalid input. Please,try again.")
     elif player_number > computer_number:
         print("Too high!")
     else:
@@ -34,6 +44,6 @@ while True:
         elif play_again == "No":
             break
         else:
-            print("Invalid input,try again.")
+            print("Invalid input. Please,try again.")
     else:
         print(f"You have {tries} tries left.")
