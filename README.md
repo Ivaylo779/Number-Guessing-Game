@@ -25,13 +25,13 @@ You can find the full source code here: [Number Guessing Game](https://github.co
 
 ## Screenshots
 ### Level 1
-![Level 1 Screenshot](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/48a1a708-3c11-451e-9032-f2c320360945" />)
+![Level 1 Screenshot](https://github.com/Ivaylo779/Number-Guessing-Game/blob/master/Screenshot%202025-09-22%20144752.png)
 
 ### Level 2
-![Level 2 Screenshot](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b1789c4e-b5bc-4818-b5a0-4bdd491b5f5b" />)
+![Level 2 Screenshot](https://github.com/Ivaylo779/Number-Guessing-Game/blob/master/Screenshot%202025-09-22%20144642.png)
 
 ### Game Over
-![Game Over Screenshot](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c628a0cb-f433-43cc-bf33-4fc48a5bf479" />)
+![Game Over Screenshot](https://github.com/Ivaylo779/Number-Guessing-Game/blob/master/Screenshot%202025-09-22%20144410.png)
 
 ## Live Demo
 You can try the game online: [Live Demo](https://replit.com/@ivaylobrezin/Number-Guessing-Game)
