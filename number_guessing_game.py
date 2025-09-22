@@ -22,7 +22,7 @@ while True:
                 end += 100
                 level += 1
                 break
-            elif advance == "no": 
+            elif advance == "no":
                 print(f"Would you like to play level {level} again?")
                 play_again = input("Yes/No").strip().lower()
                 if play_again == "yes":
