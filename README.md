@@ -21,17 +21,17 @@ The game logic:
 5. Offer options to advance to the next level, replay, or exit.
 
 ## Source Code
-You can find the full source code here: [Number Guessing Game]
+You can find the full source code here: [Number Guessing Game](https://github.com/Ivaylo779/Number-Guessing-Game/blob/master/number_guessing_game.py)
 
 ## Screenshots
 ### Level 1
-![Level 1 Screenshot](path_to_screenshot1.png)
+![Level 1 Screenshot](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/48a1a708-3c11-451e-9032-f2c320360945" />)
 
 ### Level 2
-![Level 2 Screenshot](path_to_screenshot2.png)
+![Level 2 Screenshot](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b1789c4e-b5bc-4818-b5a0-4bdd491b5f5b" />)
 
 ### Game Over
-![Game Over Screenshot](path_to_screenshot3.png)
+![Game Over Screenshot](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c628a0cb-f433-43cc-bf33-4fc48a5bf479" />)
 
 ## Live Demo
-You can try the game online: [link to live demo if hosted]
+You can try the game online: [[link to live demo if hosted](https://replit.com/@ivaylobrezin/Number-Guessing-Game)]
