@@ -49,7 +49,7 @@ while True:
             else:
                 print("Invalid input. Please,try again.")
         else:
-            print(f"You have {tries} tries left.")
+            print(f"You have {tries} more tries left.")
 
     if stop:
         break
