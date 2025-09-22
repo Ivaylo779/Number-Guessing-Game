@@ -34,4 +34,4 @@ You can find the full source code here: [Number Guessing Game](https://github.co
 ![Game Over Screenshot](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c628a0cb-f433-43cc-bf33-4fc48a5bf479" />)
 
 ## Live Demo
-You can try the game online: [[link to live demo if hosted](https://replit.com/@ivaylobrezin/Number-Guessing-Game)]
+You can try the game online: [Live Demo](https://replit.com/@ivaylobrezin/Number-Guessing-Game)
